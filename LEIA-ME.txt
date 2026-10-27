@@ -1,0 +1,19 @@
+PAULO — MONTADOR DE MÓVEIS | EXEMPLO NAWEB
+
+PUBLICAÇÃO
+Extraia o conteúdo deste ZIP diretamente na pasta pública do domínio ou subdomínio. Deixe index.html na raiz, junto de style.css, script.js e as pastas assets e licencas. Preserve também .htaccess e _headers. Não é necessário WordPress, PHP, banco de dados ou instalação de dependências.
+
+VERSÃO
+Inclui fontes maiores, disposição responsiva, animações discretas com respeito a movimento reduzido, imagens WebP e fontes locais.
+
+BUSCADORES
+O HTML contém noindex. O .htaccess (Apache/LiteSpeed) e _headers (Cloudflare Pages e plataformas compatíveis) incluem X-Robots-Tag: noindex. Preserve essas configurações para manter a demonstração fora dos resultados de busca. Não bloqueie o rastreamento em robots.txt, pois os buscadores precisam acessar a página para ler noindex.
+
+WHATSAPP E FORMULÁRIO
+O telefone configurado é o da NaWeb: (51) 99835-3976. O formulário prepara uma mensagem com os dados e abre o WhatsApp; o visitante revisa e toca em Enviar. Não há armazenamento no site. Fotos e PDFs devem ser anexados dentro da conversa. Edite script.js para alterar o número e as mensagens do formulário; os links diretos e o número reserva estão em index.html.
+
+CONTEÚDO
+Paulo é um profissional fictício. Imagens e serviços são ilustrativos. A imagem principal foi gerada com IA; as imagens de ambientes são ilustrativas do Unsplash. As fontes locais DM Sans são distribuídas sob SIL Open Font License; a licença acompanha o pacote.
+
+CACHE
+O .htaccess inclui cache e compressão para servidores com os módulos disponíveis. Em outros servidores, essas configurações podem precisar ser feitas no painel. Ao substituir CSS/JS, atualize sua versão na referência do HTML ou limpe o cache.
